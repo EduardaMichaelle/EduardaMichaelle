@@ -4,7 +4,7 @@ I'm a buddhist with a degree in Digital Games, and right now, I'm also a Compute
 
 - 🔐 I’m currently learning CyberSecurity.
 - ⚙️ `.py` `.c` `.java` 
-- 🌸 Pronouns: she/her 
+- 👾 Pronouns: she/her 
 
 <div><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGoyMXl5c2w2d2pkNmlxZjU5bWZidnpzNWx6eWZ6YTc1aWdpcjB4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSEH6MmUQYgg/giphy.gif" width="100" ><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF2MHcybXdoamVibGMyZTByMWpsbzRqMTJucjhjdXp2NDVzdmlhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5wQrdIqoEe6nXYeRfB/giphy.gif" width="90"></div>
 
