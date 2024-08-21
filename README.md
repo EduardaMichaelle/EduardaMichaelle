@@ -1,7 +1,5 @@
 ### Hello, world! 👋🏻
 
-I'm a buddhist with a degree in Digital Games and, right now, I'm also a Computer Science student at Federal Fluminense University. 
-
 - 🔐 I’m currently learning CyberSecurity.
 - ⚙️ `.py` `.c` `.java` 
 - 👾 Pronouns: she/her 
