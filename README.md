@@ -1,6 +1,6 @@
 ### Hello, world! 👋🏻
 
-- 🔐 I’m currently learning CyberSecurity.
+- 🔐 I’m currently learning about LangSec.
 - ⚙️ `.py` `.c` `.java` 
 - 👾 Pronouns: she/her 
 
